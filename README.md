@@ -2,7 +2,7 @@
 
 
 <h1> 1. Finding the right project </h1>
-### [Organisations:](https://summerofcode.withgoogle.com/archive/2021/organizations)
+### [Organisations :](https://summerofcode.withgoogle.com/archive/2021/organizations)
 
 <h1> 2. Use the Project and ask relevant doubts in organisations channel </h1>
 
@@ -14,4 +14,4 @@
 
 <h1> 6. ?? </h1>
 
-<h2>To read the complete blog on "How to make your first Open Source Contribution" [visit.](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution) </h2>
+### To read the complete blog on "How to make your first Open Source Contribution" [visit.](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution) 
