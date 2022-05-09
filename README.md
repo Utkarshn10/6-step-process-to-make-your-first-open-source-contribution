@@ -15,4 +15,4 @@
 
 <h2> 6. ?? </h2>
 
-### To read the complete blog on "How to make your first Open Source Contribution" [visit.](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution) 
+### To read the complete blog on "How to make your first Open Source Contribution" [visit](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution) 
